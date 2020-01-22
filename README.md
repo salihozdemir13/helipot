@@ -8,4 +8,4 @@ Ubuntu 16.04 üzerinde opencv3 ve python v3 de test edilmiştir.
 # Çalıştırmak için
 
 Terminal kodu:
-python videoStream.py --video yourVideo.mp4
+python helipot-run-with-videos.py --video yourVideo.mp4
